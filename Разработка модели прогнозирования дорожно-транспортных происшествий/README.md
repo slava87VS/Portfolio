@@ -10,7 +10,7 @@
 - pandas
 - seaborn
 - matplotlib
-- 
+- catboost
 
 # Выводы #
 
